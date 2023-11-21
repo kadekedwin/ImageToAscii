@@ -13,6 +13,7 @@
 		E87334CD2B0B7FE8007E27C9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E87334CC2B0B7FE8007E27C9 /* Preview Assets.xcassets */; };
 		E87334CF2B0B7FE8007E27C9 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87334CE2B0B7FE8007E27C9 /* Persistence.swift */; };
 		E87334D22B0B7FE8007E27C9 /* ImageToAscii.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E87334D02B0B7FE8007E27C9 /* ImageToAscii.xcdatamodeld */; };
+		E87334D92B0B824C007E27C9 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87334D82B0B824C007E27C9 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E87334CC2B0B7FE8007E27C9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E87334CE2B0B7FE8007E27C9 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		E87334D12B0B7FE8007E27C9 /* ImageToAscii.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ImageToAscii.xcdatamodel; sourceTree = "<group>"; };
+		E87334D82B0B824C007E27C9 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				E87334C52B0B7FE7007E27C9 /* ImageToAsciiApp.swift */,
+				E87334D82B0B824C007E27C9 /* HomeView.swift */,
 				E87334C72B0B7FE7007E27C9 /* ContentView.swift */,
 				E87334C92B0B7FE8007E27C9 /* Assets.xcassets */,
 				E87334CE2B0B7FE8007E27C9 /* Persistence.swift */,
@@ -146,6 +149,7 @@
 				E87334D22B0B7FE8007E27C9 /* ImageToAscii.xcdatamodeld in Sources */,
 				E87334CF2B0B7FE8007E27C9 /* Persistence.swift in Sources */,
 				E87334C82B0B7FE7007E27C9 /* ContentView.swift in Sources */,
+				E87334D92B0B824C007E27C9 /* HomeView.swift in Sources */,
 				E87334C62B0B7FE7007E27C9 /* ImageToAsciiApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
